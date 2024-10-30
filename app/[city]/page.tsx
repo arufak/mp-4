@@ -22,7 +22,7 @@ const WeatherCardsContainer = styled.div`
   display: flex;
   flex-flow: row wrap;
   border: black 5px solid;
-  background-color: LIghtYellow;
+  background-color: LightBlue;
   justify-content: center;
 `;
 
